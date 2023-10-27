@@ -1,0 +1,31 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  .titolo{ 
+
+    font-size: 40px;
+    font-family:'Fredoka', sans-serif;
+    color: rgb(224, 47, 109);
+    align-items: center;
+    text-align: center;
+    margin: 1%;
+    padding-top: 1%;
+  
+  }
+
+
+  .frase{
+    text-align: center;
+    margin: 3%;
+    font-size: medium;
+    font: icon;
+
+  }
+
+  .immagini{
+    
+
+  }
