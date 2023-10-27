@@ -25,7 +25,27 @@
 
   }
 
-  .immagini{
+  
+  .card{
+    background-color: #0F0E17;
+    width: 400px;
+    align-items: space-between;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
     
+  .cardtext{
+    color: aliceblue;
+    justify-content: space-between;
+
 
   }
+
+
+  .blue{
+    color: blue;
+  }
+
+
